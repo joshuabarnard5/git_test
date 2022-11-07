@@ -1,3 +1,5 @@
 hello world, hello odin
 i'm adding a some text to test my git knowledge
 so far :)
+
+alright it's pretty poor but i'll get better.
